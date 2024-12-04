@@ -42,7 +42,7 @@ Welcome to **InsightHub**, a platform designed to deliver real-time, personalize
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Abelboby/Insights-Hub.git
+   git clone https://github.com/saurabhsushir/Insight-Hub.git
    cd InsightHub
    ```
 
